@@ -1,4 +1,4 @@
-SELAMAT DATANG DI TOOL Mr.Rv1.1
+SeeSELAMAT DATANG DI TOOL Mr.Rv1.1
 
 apt update && apt upgrade
 
@@ -15,13 +15,3 @@ git clone https://github.com/Mr-R225/Mr.Rv1.1
 cd Mr.Rv1.1
 
 sh Mr.Rv1.1.sh
-
-.-.-..
-          /+/++//
-         /+/++//
-  *   * /+/++//
-   \ /  |/__//
- {X}v{X}|MR.HAMBALI.XXVXS|==========.
-   (')  /'|'\           \
-       /  \  \          '
-       \_  \_ \_   ___MR.HAMBALI.XXVXS 2.0___
