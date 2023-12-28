@@ -1,4 +1,4 @@
-SeeSELAMAT DATANG DI TOOL Mr.Rv1.1
+SELAMAT DATANG DI TOOL Mr.Rv1.1
 
 apt update && apt upgrade
 
